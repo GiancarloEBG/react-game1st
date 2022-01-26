@@ -2,20 +2,3 @@ h1,
 p {
   font-family: Lato;
 }
-
-div#game {
-  display: flex;
-  flex-direction: column;
-}
-
-.row {
-  display: flex;
-}
-
-.box {
-  width: 100px;
-  height: 100px;
-  background: #eee;
-  border: 2px solid black;
-  cursor: pointer;
-}
